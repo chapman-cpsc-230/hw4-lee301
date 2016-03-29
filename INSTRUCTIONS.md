@@ -42,6 +42,7 @@ Using the `digits(n)` function you have written to improve the histogram procedu
 13 | *************
  5 | *****
 ```
+name files as: histogram.py, digits.py, histogram2.py
 
 ## General
 
