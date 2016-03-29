@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Krysatl Lee
 
-**Due date:** _\<date\>_
+**Due date:** 3/18/2016
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+In this assignment, we had to test functions if they do work. We also had to define histogram function and digits function.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to test functions and how to define such functions. I also learned how to draw a histogram using asterisks.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Krystal Lee

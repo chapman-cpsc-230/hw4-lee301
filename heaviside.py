@@ -1,12 +1,12 @@
-    """
-    File: <heaviside.py>
+"""
+File: <heaviside.py>
 
-    Copyright (c) 2016 Krystal Lee
+Copyright (c) 2016 Krystal Lee
 
-    License: MIT
+License: MIT
 
-    <Test heaviside function>
-    """
+<Test heaviside function>
+"""
 
 def H(x):
 	if(x < 0):

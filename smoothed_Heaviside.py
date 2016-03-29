@@ -1,12 +1,13 @@
-    """
-    File: <smoothed_Heaviside.py>
+"""
+File: <smoothed_Heaviside.py>
 
-    Copyright (c) 2016 Krystal Lee
+Copyright (c) 2016 Krystal Lee
 
-    License: MIT
+License: MIT
 
-    <test smoothed_Heaviside function>
-    """
+<test smoothed_Heaviside function>
+"""
+
 import math
 
 def H_eps(x, eps=0.01):
